@@ -12,4 +12,5 @@
 ***
 **9.** Змін не відбулось за допомогою команди git pull витягнув веб зміни в локальну версію.
 ***
+**10.** ![alt text](https://www.imgonline.com.ua/examples/bee-on-daisy.jpg)
 
