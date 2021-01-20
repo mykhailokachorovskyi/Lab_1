@@ -6,7 +6,7 @@
 ***
 4. Create image w/ Django site which site create in previous lab by this commands: docker pull python:3.8-slim docker images docker inspect python:3.8-slim
 ***
-5. Link repo Docker
+5. Link repo Docker https://hub.docker.com/repository/docker/laforp/lab4
 ***
 6. sudo docker build -t laforp:django . sudo docker push laforp/lab4:django
 ***
